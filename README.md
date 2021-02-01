@@ -4,7 +4,7 @@ Adrese: Slokas 217-7, Rīga LV-1069
 Mob. tālr.: +37122190360
 E-pasts: misjao2005@gmail.com
 
-Fotogrāfija: ![Mihails's face](https://sun9-3.userapi.com/impf/c850332/v850332556/ef15f/NXYg4mbbWRI.jpg?size=720x522&quality=96&proxy=1&sign=a81173c7a37f7d87876fa56e4808994a&type=album)
+Fotogrāfija: ![Mihails's face](https://sun9-43.userapi.com/impg/BS5YiEofJ1wcOJ_eZFCDTGUjpG5_ImBiBlOxfg/7DTo0xCFQZ0.jpg?size=363x344&quality=96&proxy=1&sign=66ba97fce0c8d130d89c663932b712ce&type=album)
 
 ## Izglitība
 *Rīgas Anniņmuižas vidusskola 2012-2020
