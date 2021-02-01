@@ -32,8 +32,8 @@ Pieredzes programmēšana vispār nav
 
 
 ## Valodas prasmes
-| Valoda          | Prasmes līmenis       |
-| ------------    | --------------------- |
-|  1.Krievu val.  |        Dzimtā         |
-|  2.Angļu val.   |     Vidējais zināšanas|
-|  3.Latv. val.   |     Labas zināšanas   |
+|      Valoda      |     Prasmes līmenis   |
+| ------------     | --------------------- |
+|  1. Krievu val.  |        Dzimtā         |
+|  2. Angļu val.   |     Vidējais zināšanas|
+|  3. Latv. val.   |     Labas zināšanas   |
