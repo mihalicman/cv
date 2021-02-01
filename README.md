@@ -21,3 +21,9 @@ Man ļoti patīk ģeogrāfija un nakotnē es gribu apcelot visu pasauli
 
 # Pieredze programmēšana
 Pieredzes programmēšana vispār nav
+
+| Valoda          | Prasmes līmenis       |
+| ------------    | --------------------- |
+|  1.Krievu val.  |        Dzimtā         |
+|  2.Angļu val.   |     Vidējais zināšanas|
+|  3.Latv. val.   |     Labas zināšanas   |
